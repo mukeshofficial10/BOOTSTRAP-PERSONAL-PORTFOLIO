@@ -1,0 +1,114 @@
+.nav-logo{
+    height: 50px;
+    background: transparent;
+    border-radius: 50%;
+}
+.massbody{
+    background-image: url(https://res.cloudinary.com/dzjeubafg/image/upload/v1699880196/background_image_umwsbt.avif);
+}
+.item-nav{
+    color: whitesmoke;
+    font-family: Blippo, fantasy;
+}
+.item-nav:hover{
+    color: red;
+    text-decoration: underline;
+}
+.anchor{
+    margin-left: auto;
+}
+.body-section{
+    height: 85vh;
+}
+.box-left{ 
+    color:white;
+    height: 50px;
+    font-family: Trebuchet MS, sans-serif;
+    text-align: right;
+    padding-left: 150px;
+}
+.logo{
+    height: 300px;
+    padding-left: 40px;
+    background-color: transparent;
+}
+.home-para{
+    font-family:Bookman, URW Bookman L, serif;
+    font-size: 30px;
+}
+.abouth1{
+    color: whitesmoke;
+    text-align: center;
+    font-family:Trebuchet MS, sans-serif;
+    font-size: 50px;
+}
+.aboutus-para{
+    color: whitesmoke;
+    font-family: DejaVu Sans Mono, monospace;
+    font-size:25px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.courses-h1{
+    color: whitesmoke;
+    text-align: center;
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 50px;
+}
+.card{
+    border: 2px solid white;
+    background: transparent;
+    transition: all 0.3s;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.card:hover{
+    border: 2px solid green;
+    transform: scale(1.05);
+}
+.card1-h1{
+    color: whitesmoke;
+    font-size: 30px;
+    padding-top: 10px;
+
+}
+.card1-para{
+    color: whitesmoke;
+}
+.card1-photo{
+    height:300px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.card2-h1{
+    color: whitesmoke;
+    font-size: 30px;
+    padding-top: 10px;
+}
+.card2-para{
+    color: whitesmoke;
+}
+.card2-photo{
+    height:300px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.ws-h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+}
+.ws-para{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+}
+.contact{
+    color: whitesmoke;
+    text-align: center;
+    align-items: center;
+}
+.social-icons{
+    padding: 30px;
+}
